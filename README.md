@@ -63,17 +63,17 @@ Type: `string`
 
 GitLab repo.
 
-##### description
-
-Type: `string`
-
-The issue description.
-
 ##### title
 
 Type: `string`
 
 The issue title.
+
+##### description
+
+Type: `string`
+
+The issue description.
 
 ##### template
 
