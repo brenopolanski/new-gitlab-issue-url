@@ -1,0 +1,31 @@
+{
+  "name": "new-gitlab-issue-url",
+  "version": "0.1.0",
+  "description": "Generate a URL for opening a new GitLab issue with prefilled title, description, and other fields",
+  "license": "MIT",
+  "repository": "git@github.com:brenopolanski/new-gitlab-issue-url.git",
+  "author": {
+    "name": "Breno Polanski",
+    "email": "breno.polanski@gmail.com",
+    "url": "brenopolanski.com"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "index.js",
+  "keywords": [
+    "gitlab",
+    "issue",
+    "new",
+    "generate",
+    "url",
+    "query",
+    "search",
+    "parameters",
+    "params"
+  ],
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "xo": "^0.25.3"
+  }
+}
