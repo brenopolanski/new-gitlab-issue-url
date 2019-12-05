@@ -4,8 +4,16 @@
 
 ## Install
 
+**Using NPM:**
+
 ```
-$ yarn add new-gitlab-issue-url (or npm install new-gitlab-issue-url)
+npm install --save new-gitlab-issue-url
+```
+
+**Using Yarn:**
+
+```
+yarn add new-gitlab-issue-url
 ```
 
 ## Usage
