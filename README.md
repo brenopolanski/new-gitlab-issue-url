@@ -2,6 +2,10 @@
 
 > Generate a URL for opening a new GitLab issue with prefilled title, description, and other fields
 
+GitLab supports prefilling a new issue by setting certain search parameters. This package simplifies generating such URL.
+
+Inspired by *@sindresorhus* [new-github-issue-url](https://github.com/sindresorhus/new-github-issue-url)
+
 ## Install
 
 **Using NPM:**
